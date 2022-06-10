@@ -3,3 +3,4 @@
 2) git pull: to pull the commits from the github to the local machine
 3) git clone <SSH key>: to the clone a repository from github to the local machine
 4) git commit -m "name of commit": to commit the changes and naming it
+My name is Akash Khandelwal, IITGoa. I live in Gondia, MH.
